@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aa546f3-7a11-4bfb-a016-eb1658f98a4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Numpy_ch1_2arrays_squared.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy_ch1_2arrays_squared.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cCpAZxgUMai7EdunoWVrVlw42d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Numpy_ch1_2arrays_squared">
+    <configuration name="Numpy_ch1_2arrays_squared" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSDN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Numpy_ch1_2arrays_squared.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ch10_a1_jiechengiterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSDN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch10_a1_jiechengiterator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matrix_rotate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSDN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_rotate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Numpy_ch1_2arrays_squared" />
+        <item itemvalue="Python.ch10_a1_jiechengiterator" />
+        <item itemvalue="Python.matrix_rotate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa546f3-7a11-4bfb-a016-eb1658f98a4a" name="Default Changelist" comment="" />
+      <created>1590042286969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590042286969</updated>
+    </task>
+    <task id="LOCAL-00001" summary="CSDN execises.">
+      <created>1590277271075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590277271075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CSDN execises." />
+    <option name="LAST_COMMIT_MESSAGE" value="CSDN execises." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="209" key="GridCell.Tab.0.bottom" timestamp="1590277347555">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="244" key="GridCell.Tab.0.bottom/0.23.3840.2057@0.23.3840.2057" timestamp="1590161962421" />
+    <state width="1379" height="209" key="GridCell.Tab.0.bottom/1680.23.3840.2057/0.23.1680.1027@1680.23.3840.2057" timestamp="1590216865202" />
+    <state width="1379" height="209" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.958@0.23.1680.958" timestamp="1590277347555" />
+    <state width="1379" height="209" key="GridCell.Tab.0.center" timestamp="1590277347554">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="244" key="GridCell.Tab.0.center/0.23.3840.2057@0.23.3840.2057" timestamp="1590161962421" />
+    <state width="1379" height="209" key="GridCell.Tab.0.center/1680.23.3840.2057/0.23.1680.1027@1680.23.3840.2057" timestamp="1590216865202" />
+    <state width="1379" height="209" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.958@0.23.1680.958" timestamp="1590277347554" />
+    <state width="1379" height="209" key="GridCell.Tab.0.left" timestamp="1590277347553">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="244" key="GridCell.Tab.0.left/0.23.3840.2057@0.23.3840.2057" timestamp="1590161962421" />
+    <state width="1379" height="209" key="GridCell.Tab.0.left/1680.23.3840.2057/0.23.1680.1027@1680.23.3840.2057" timestamp="1590216865201" />
+    <state width="1379" height="209" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.958@0.23.1680.958" timestamp="1590277347553" />
+    <state width="1379" height="209" key="GridCell.Tab.0.right" timestamp="1590277347555">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="244" key="GridCell.Tab.0.right/0.23.3840.2057@0.23.3840.2057" timestamp="1590161962421" />
+    <state width="1379" height="209" key="GridCell.Tab.0.right/1680.23.3840.2057/0.23.1680.1027@1680.23.3840.2057" timestamp="1590216865202" />
+    <state width="1379" height="209" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.958@0.23.1680.958" timestamp="1590277347555" />
+    <state x="283" y="144" key="SettingsEditor" timestamp="1590269054249">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="283" y="153" key="SettingsEditor/1680.23.3840.2057/0.23.1680.1027@0.23.1680.1027" timestamp="1590098407446" />
+    <state x="283" y="144" key="SettingsEditor/1680.23.3840.2137/0.23.1680.958@0.23.1680.958" timestamp="1590269054249" />
+    <state x="2327" y="294" key="SettingsEditor/1680.23.3840.2137/0.23.1680.958@1680.23.3840.2137" timestamp="1590267648069" />
+  </component>
+</project>
